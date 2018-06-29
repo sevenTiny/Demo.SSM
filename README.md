@@ -7,4 +7,4 @@ SSM（spring+springmvc+mybatis）框架 Demo
 
 搭建框架的详细步骤见本人博客：
 
-http://www.cnblogs.com/qixiaoyizhan/p/7751732.html
+http://www.cnblogs.com/7tiny/p/7751732.html
